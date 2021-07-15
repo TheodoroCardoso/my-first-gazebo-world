@@ -3,7 +3,7 @@ First Project - My Gazebo World - Robotics Software Engineer Nanodegree @Udacity
 
 This Gazebo world design intends to replicate the **WorldSkills Mobile Robotics** next challange in a simplified version.
 
-Please take a look on a brief competition explanation below.
+Please take a look on a brief competition overview below.
 
 ## WorldSkills
 [WorldSkills](https://worldskills.org/) Is the world's largest TVET competition that happens every 2 years in a different country.
