@@ -17,7 +17,7 @@ I was a competitor back in 2017 WorldSkills Abu Dhabi and now I'm a mobile robot
 
 The competition is based on a [robotics kit](https://www.studica.co/worldskills-shanghai-2022) to level the playing field between different countries.
 
-In previous years LabVIEW was the mandatory, for the next edition the hardware has changed and more options like ROS are available.
+In previous years LabVIEW was the mandatory programming language, but for the next edition the hardware has changed and more options like ROS are available.
 
 ## The Robot's Task
 The WS Shanghai 2022 challange simulates a hospital.
