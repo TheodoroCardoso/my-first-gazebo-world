@@ -1,5 +1,5 @@
-# robo-nd-project1
-First Project - My Gazebo World - Robotics Software Engineer Nanodegree @Udacity
+# My Gazebo World
+First Project - Robotics Software Engineer Nanodegree @Udacity
 
 This Gazebo world design intends to replicate the **WorldSkills Mobile Robotics** next challange in a simplified version.
 
