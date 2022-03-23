@@ -25,9 +25,3 @@ The WS Shanghai 2022 challange simulates a hospital.
 In the actual competition teams will develop mobile robots that have to carry medicines and hazardous materials represented by colored cubes and gurneys represented by a four wheeled chassis.
 
 More information can be found in the Test Project available as pdf in this repo.
-
-
-##### PS: I'm new to Git, GitHub, Linux and also ROS. Please let me know how to improve!
-
-
-
